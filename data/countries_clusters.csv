@@ -6,7 +6,7 @@ latitude,longitude,country_name,cluster
 42.506285,1.521801,Andorra,1
 -11.202692,17.873887,Angola,3
 18.220554,-63.068615,Anguilla,2
--82.862752,135,Antarctica,8
+-82.862752,135.0,Antarctica,8
 17.060816,-61.796428,Antigua & Barbuda,2
 -38.416097,-63.616672,Argentina,6
 40.069099,45.038189,Armenia,0
